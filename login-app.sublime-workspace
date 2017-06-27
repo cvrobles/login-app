@@ -1,0 +1,361 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"backgro",
+				"background-size"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"tex",
+				"text-decoration-color"
+			],
+			[
+				"Todo",
+				"TodoDataService\talias"
+			],
+			[
+				"to",
+				"todoDataService\tproperty"
+			],
+			[
+				"T",
+				"Todo\talias"
+			],
+			[
+				"todo",
+				"todo-data.service\tscript"
+			],
+			[
+				"for",
+				"forRoot\tmethod"
+			],
+			[
+				"Rout",
+				"RouterModule\talias"
+			],
+			[
+				"mem",
+				"member-detail.component\tscript"
+			],
+			[
+				"her",
+				"heroService\tproperty"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "src/app/app.component.spec.ts",
+			"settings":
+			{
+				"buffer_size": 1046,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 372.0,
+		"last_filter": "prv",
+		"selected_items":
+		[
+			[
+				"prv",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"p",
+				"Package Control: Discover Packages"
+			],
+			[
+				"",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 485.0
+	},
+	"console":
+	{
+		"height": 656.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/slot/dev/src/ng2/login-app",
+		"/home/slot/dev/src/ng2/login-app/src",
+		"/home/slot/dev/src/ng2/login-app/src/app"
+	],
+	"file_history":
+	[
+		"/home/slot/src/ng2/login-app/package.json",
+		"/home/slot/src/ng2/login-app/src/app/home/home.component.html",
+		"/home/slot/src/ng2/login-app/src/app/login/login.component.html",
+		"/home/slot/src/ng2/login-app/src/app/app.routing.ts",
+		"/home/slot/src/ng2/login-app/src/app/login/login.component.css",
+		"/home/slot/src/ng2/login-app/src/app/app.component.html",
+		"/home/slot/src/ng2/login-app/src/index.html",
+		"/home/slot/src/ng2/login-app/src/app/app.component.css",
+		"/home/slot/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+		"/home/slot/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
+		"/home/slot/src/ng2/todo-app/src/index.html",
+		"/home/slot/src/ng2/todo-app/src/app/app.component.ts",
+		"/home/slot/src/ng2/todo-app/src/app/app.module.ts",
+		"/home/slot/src/ng2/todo-app/src/app/navbar/navbar.component.ts",
+		"/home/slot/src/ng2/todo-app/src/app/navbar/navbar.component.html",
+		"/home/slot/src/ng2/todo-app/src/app/home/home.component.ts",
+		"/home/slot/src/ng2/fam-app/index.html",
+		"/home/slot/src/ng2/todo-app/src/app/todo/todo.component.ts",
+		"/home/slot/src/ng2/todo-app/angular-cli.json",
+		"/home/slot/src/ng2/todo-app/src/tsconfig.json",
+		"/home/slot/src/ng2/todo-app/src/typings.d.ts",
+		"/home/slot/src/ng2/todo-app/src/app/index.ts",
+		"/home/slot/src/ng2/todo-app/src/app/app.component.html",
+		"/home/slot/src/ng2/todo-app/src/app/home/index.ts",
+		"/home/slot/src/ng2/todo-app/src/app/home/home-routes.config.ts",
+		"/home/slot/src/ng2/todo-app/src/app/home/home.module.ts",
+		"/home/slot/src/ng2/todo-app/src/app/home/home.component.html",
+		"/home/slot/src/ng2/todo-app/src/app/home/home.component.css",
+		"/home/slot/src/ng2/todo-app/src/app/navbar/index.ts",
+		"/home/slot/src/ng2/todo-app/src/app/navbar/navbar-routes.config.ts",
+		"/home/slot/src/ng2/todo-app/src/app/navbar/navbar.component.css",
+		"/home/slot/src/ng2/todo-app/src/app/navbar/navbar.metadata.ts",
+		"/home/slot/src/ng2/todo-app/src/app/navbar/navbar.module.ts",
+		"/home/slot/src/ng2/todo-app/src/app/todo/todo-data.service.ts",
+		"/home/slot/src/ng2/todo-app/src/app/todo/todo-data.service.spec.ts",
+		"/home/slot/src/ng2/todo-app/src/app/app.component.spec.ts",
+		"/home/slot/src/ng2/todo-app/src/app/todo/todo.component.html",
+		"/home/slot/src/ng2/todo-app/src/app/todo.ts",
+		"/home/slot/src/ng2/todo-app/src/app/todo.spec.ts",
+		"/home/slot/src/ng2/todo-app/src/app/todo-data.service.ts",
+		"/home/slot/src/ng2/todo-app/src/app/todo-data.service.spec.ts",
+		"/home/slot/src/ng2/todo-app/src/app/todo/todo.component.css",
+		"/home/slot/src/ng2/todo-app/src/app/todo/todo.component.spec.ts",
+		"/home/slot/src/ng2/todo-app/karma.conf.js",
+		"/home/slot/src/test/Testy/src/app/app.component.ts",
+		"/home/slot/src/test/Testy/src/app/app.component.html",
+		"/home/slot/src/fam-app/app/members.component.html",
+		"/home/slot/src/fam-app/app/members.component.css",
+		"/home/slot/src/fam-app/app/app.component.ts",
+		"/home/slot/src/fam-app/app/app.component.css",
+		"/home/slot/src/fam-app/app/app-routing.module.ts",
+		"/home/slot/src/fam-app/app/members.component.ts",
+		"/home/slot/src/fam-app/app/app.module.ts",
+		"/home/slot/src/fam-app/index.html",
+		"/home/slot/src/fam-app/app/dashboard.component.html",
+		"/home/slot/.config/sublime-text-3/Packages/Theme - Default/Default.sublime-theme",
+		"/home/slot/src/fam-app/app/member-detail.component.ts",
+		"/home/slot/src/fam-app/app/member.service.ts",
+		"/home/slot/src/fam-app/app/member-detail.component.html",
+		"/home/slot/src/fam-app/app/dashboard.component.ts",
+		"/home/slot/src/fam-app/app/member.ts",
+		"/home/slot/src/fam-app/app/app.component.spec.ts",
+		"/home/slot/src/fam-app/app/mock-members.ts",
+		"/home/slot/src/angular-tour-of-heroes/app/app.component.ts",
+		"/home/slot/src/angular-tour-of-heroes/app/app.module.ts",
+		"/home/slot/src/angular-tour-of-heroes/app/dashboard.component.ts",
+		"/home/slot/src/angular-tour-of-heroes/index.html",
+		"/home/slot/src/angular-tour-of-heroes/app/heroes.component.ts",
+		"/home/slot/src/angular-tour-of-heroes/app/hero.service.ts",
+		"/home/slot/src/angular-tour-of-heroes/app/hero-detail.component.ts",
+		"/home/slot/src/angular-tour-of-heroes/app/mock-heroes.ts",
+		"/home/slot/src/angular-tour-of-heroes/app/hero.ts",
+		"/home/slot/src/myapp/views/index.jade",
+		"/home/slot/src/myapp/views/index.html",
+		"/home/slot/src/myapp/app.js",
+		"/home/slot/src/xapp/views/index.jade",
+		"/home/slot/src/xapp/views/index.html",
+		"/home/slot/src/xapp/index.html",
+		"/home/slot/src/xapp/app.js",
+		"/home/slot/src/app/app.js"
+	],
+	"find":
+	{
+		"height": 30.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"todo-component",
+			"TodoComponentComponent",
+			"tab_size",
+			"tab",
+			"back"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"TodoComponent"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "src/app/app.component.spec.ts",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 1046,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/TypeScript/TypeScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true,
+							"use_tab_stops": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 30.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.doc":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "login-app.sublime-project",
+	"replace":
+	{
+		"height": 56.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 348.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
